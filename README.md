@@ -4,8 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Remember to add your api key in src/services/alphaVantageService.ts
+Remember to add your api key in src/services/alphaVantageService.ts\
+
 In the project directory, you can run:
+
+### 'npm install'
+
+This will install all the dependencies and let the code use them.
 
 ### `npm start`
 
